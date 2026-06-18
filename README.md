@@ -1,6 +1,6 @@
 # KagamineKagaminePorts
 [English](README.md)
-![Avatar](/Stamp0251.png)
+![Avatar](/image.png)
 
 
 Accessible Ports for You
