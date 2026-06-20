@@ -6,6 +6,5 @@
 Accessible Ports for You
 
 ## Members
-- [Otomachi Una (SVS1)](https://github.com/toodedicated/Otomachi-Una-AI)
-- [Otomachi Una (V6)](https://github.com/toodedicated/Otomachi-Una-V6)
-- [The Kagamine Twins (V4X)](https://github.com/toodedicated/Kagamine-Twins)
+- [Otomachi Una](https://github.com/toodedicated/Otomachi-Una-AI)
+- [Kagamine Rin/Len](https://github.com/toodedicated/Kagamine-Twins)
