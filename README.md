@@ -3,7 +3,7 @@
 ![Avatar](/image.png)
 
 
-Accessible Ports for You
+Porting to OpenUTAU (USE MORESAMPLER FOR ALL MY PORTS.)
 
 ## Members
 - [Otomachi Una](https://github.com/toodedicated/Otomachi-Una)
